@@ -11,6 +11,7 @@ sudo add-apt-repository ppa:webupd8team/java
 sudo apt update; sudo apt install oracle-java8-installer
 ```
 After finishing installation, you can compile the file like `javac your_file_name.java`.
+
 To run that compiled class file, type `java your_compiled_class_file_name`
 
 To check the version of java after installing, that you're using, run - `javac --version`.
