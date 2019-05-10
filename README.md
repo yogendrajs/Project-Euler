@@ -1,6 +1,6 @@
 # Project-Euler
 
-In this project, I have solved some of the questions of **Project Euler** (`https://projecteuler.net/archives`) in **Java** to improve my Logical thinking.
+In this project, I have solved some of the questions of **Project Euler** (https://projecteuler.net/archives) in **Java** to improve my Logical thinking.
 
 ##  Requirements and Installation process
 
